@@ -49,7 +49,7 @@ Below you can see all the supported themes. The images were created automaticall
 ## Hypersubatomic themes
 [![Hypersubatomic](./palettes_examples/Hypersubatomic.png)](https://marketplace.visualstudio.com/items?itemName=neilpanchal.hypersubatomic)
 
-# Monkai Themes
+## Monkai Themes
 [![MonokaiClassic](./palettes_examples/Monokai_Classic.png)](https://github.com/loctvl842/monokai-pro.nvim/tree/master)
 [![MonokaiMachine](./palettes_examples/Monokai_Machine.png)](https://github.com/loctvl842/monokai-pro.nvim/tree/master)
 [![MonokaiOctagon](./palettes_examples/Monokai_Octagon.png)](https://github.com/loctvl842/monokai-pro.nvim/tree/master)
