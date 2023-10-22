@@ -26,5 +26,6 @@ from .monokai.spectrum import MonokaiSpectrum
 
 # Hypersubatomic
 from .hypersubatomic.hypersubatomic import Hypersubatomic
+from .lotus.lotus_dark import LotusDark
 
-palettes_list = ['CatpuccinoFrappe', 'CatpuccinoLatte', 'CatpuccinoMacchiato', 'CatpuccinoMocha', 'Dracula', 'Hypersubatomic', 'MonokaiClassic', 'MonokaiMachine', 'MonokaiOctagon', 'MonokaiPro', 'MonokaiRistretto', 'MonokaiSpectrum', 'OneDark', 'TokyoNight', 'TokyoNightLight', 'TokyoNightStorm']
+palettes_list = ['CatpuccinoFrappe', 'CatpuccinoLatte', 'CatpuccinoMacchiato', 'CatpuccinoMocha', 'Dracula', 'Hypersubatomic', 'MonokaiClassic', 'MonokaiMachine', 'MonokaiOctagon', 'MonokaiPro', 'MonokaiRistretto', 'MonokaiSpectrum', 'OneDark', 'TokyoNight', 'TokyoNightLight', 'TokyoNightStorm', 'LotusDark']
