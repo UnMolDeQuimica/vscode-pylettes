@@ -23,3 +23,5 @@ from .monokai.octagon import Octagon
 from .monokai.pro import Pro
 from .monokai.ristretto import Ristretto
 from .monokai.spectrum import Spectrum
+
+# Hypersubatomic

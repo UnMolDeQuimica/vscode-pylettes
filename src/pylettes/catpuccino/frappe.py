@@ -1,4 +1,4 @@
-# Source: https://github.com/joshdick/onedark.vim
+# Source: https://github.com/catppuccin/catppuccin#-palette
 
 from ..base import ColorPalette, Color
 
