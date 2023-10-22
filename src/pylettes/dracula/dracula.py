@@ -1,3 +1,5 @@
+# Source: https://draculatheme.com/contribute
+
 from ..base import ColorPalette, Color
 
 BACKGROUND = Color(
