@@ -9,6 +9,13 @@ BLACK = Color(
     (218.18, 12.09, 17.84)
 )
 
+BACKGROUND = Color(
+    "background",
+    (40, 44, 51),
+    "#282C33",
+    (218.18, 12.09, 17.84)
+)
+
 RED = Color(
     "red",
     (224, 107, 116),
@@ -61,6 +68,7 @@ GRAY = Color(
 OneDark = ColorPalette(
     name="One Dark",
     colors_list=[
+        BACKGROUND,
         BLACK,
         RED,
         GREEN,
