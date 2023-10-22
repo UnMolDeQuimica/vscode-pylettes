@@ -116,7 +116,7 @@ PURPLE = Color(
 
 
 TokyoNight = ColorPalette(
-    name="One Dark",
+    name="Tokyo Night",
     colors_list=[
         BACKGROUND,
         BLACK,
