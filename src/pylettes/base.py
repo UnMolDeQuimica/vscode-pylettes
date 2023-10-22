@@ -8,6 +8,12 @@ class Color:
         self.hex = self.hex_code(hex_code)
         self.hsl = self.hsl_code(hsl_code)
         
+    def __str__(self):
+        return f"Color with rgb {self.rgb}, hex {self.hex} and hsl {self.hsl}"
+    
+    def __repr__(self) -> str:
+        return self.__str__()
+        
     def hex_code(self, code: str|None):
         if code != None:
             return code
@@ -57,7 +63,7 @@ class Color:
 
 
 class ColorPalette:
-    def __init__(self, name: str, colors_list):
+    def __init__(self, name: str, colors_list: list[Color]):
         self.name = name
         self.colors_list = colors_list
         self.color_scheme = self.color_scheme_list()
@@ -67,7 +73,13 @@ class ColorPalette:
         
         for color in colors_list:
             setattr(self, color.name, color)
-        
+            
+    def __str__(self):
+        return f"Palette {self.name} with colors {self.color_scheme}"
+    
+    def __repr__(self) -> str:
+        return self.__str__()
+    
     def color_scheme_list(self) -> list:
         return [color.name for color in self.colors_list]
         
