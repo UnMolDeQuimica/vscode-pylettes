@@ -51,6 +51,19 @@ def hex_to_class(name: str, hex: str) -> str:
     print(f")")
     print("")
 
-hex_to_class("", "")
-
+hex_to_class("dark2", "#131313")
+hex_to_class("dark1", "#191919")
+hex_to_class("background", "#222222")
+hex_to_class("text", "#f7f1ff")
+hex_to_class("accent1", "#fc618d")
+hex_to_class("accent2", "#fd9353")
+hex_to_class("accent3", "#fce566")
+hex_to_class("accent4", "#7bd88f")
+hex_to_class("accent5", "#5ad4e6")
+hex_to_class("accent6", "#948ae3")
+hex_to_class("dimmed1", "#bab6c0")
+hex_to_class("dimmed2", "#8b888f")
+hex_to_class("dimmed3", "#69676c")
+hex_to_class("dimmed4", "#525053")
+hex_to_class("dimmed5", "#363537")
 

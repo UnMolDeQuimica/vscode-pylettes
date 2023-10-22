@@ -185,7 +185,7 @@ CRUST = Color(
 )
 
 Macchiato = ColorPalette(
-    name="Catpuccino: Latte",
+    name="Catpuccino Macchiato",
     colors_list=[
         ROSEWATER,
         FLAMINGO,

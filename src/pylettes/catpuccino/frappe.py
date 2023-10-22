@@ -185,7 +185,7 @@ CRUST = Color(
 )
 
 Frappe = ColorPalette(
-    name="Catpuccino: Latte",
+    name="Catpuccino Frappe",
     colors_list=[
         ROSEWATER,
         FLAMINGO,
