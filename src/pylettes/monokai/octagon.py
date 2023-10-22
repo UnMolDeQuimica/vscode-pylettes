@@ -106,7 +106,7 @@ DIMMED5 = Color(
     (229, 12, 26)
 )
 
-Octagon = ColorPalette(
+MonokaiOctagon = ColorPalette(
     name="Monokai Octagon",
     colors_list=[
         DARK2,

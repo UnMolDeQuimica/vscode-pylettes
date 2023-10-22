@@ -107,7 +107,7 @@ DIMMED5 = Color(
     (68, 6, 22)
 )
 
-Classic = ColorPalette(
+MonokaiClassic = ColorPalette(
     name="Monokai Classic",
     colors_list=[
         DARK2,

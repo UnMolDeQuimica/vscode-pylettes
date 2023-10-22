@@ -50,13 +50,3 @@ def hex_to_class(name: str, hex: str) -> str:
     print(f"    {hsl}")
     print(f")")
     print("")
-
-hex_to_class("background", "##0F111A")
-hex_to_class("green", "#00AE6B")
-hex_to_class("red", "#F2283C")
-hex_to_class("blue", "#277DFF")
-hex_to_class("yellow", "#FFC200")
-hex_to_class("pink", "#D72E82")
-hex_to_class("purple", "#875AFB")
-hex_to_class("orange", "#FF7A00")
-

@@ -5,7 +5,7 @@ from ..base import ColorPalette, Color
 BACKGROUND = Color(
     "background",
     (15, 17, 26),
-    "##0F111A",
+    "#0F111A",
     (229, 26, 8)
 )
 

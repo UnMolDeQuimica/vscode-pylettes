@@ -106,7 +106,7 @@ DIMMED5 = Color(
     (269, 1, 21)
 )
 
-Spectrum = ColorPalette(
+MonokaiSpectrum = ColorPalette(
     name="Monokai Spectrum",
     colors_list=[
         DARK2,

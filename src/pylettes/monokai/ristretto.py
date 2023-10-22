@@ -107,7 +107,7 @@ DIMMED5 = Color(
     (0, 6, 23)
 )
 
-Ristretto = ColorPalette(
+MonokaiRistretto = ColorPalette(
     name="Monokai Ristretto",
     colors_list=[
         DARK2,

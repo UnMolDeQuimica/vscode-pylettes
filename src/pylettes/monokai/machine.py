@@ -106,7 +106,7 @@ DIMMED5 = Color(
     (199, 11, 25)
 )
 
-Machine = ColorPalette(
+MonokaiMachine = ColorPalette(
     name="Monokai Machine",
     colors_list=[
         DARK2,

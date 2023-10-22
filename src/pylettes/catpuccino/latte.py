@@ -184,8 +184,8 @@ CRUST = Color(
     (220, 20, 88)
 )
 
-Latte = ColorPalette(
-    name="Catpuccino: Latte",
+CatpuccinoLatte = ColorPalette(
+    name="Catpuccino Latte",
     colors_list=[
         ROSEWATER,
         FLAMINGO,

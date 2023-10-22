@@ -107,7 +107,7 @@ DIMMED5 = Color(
     (280, 2, 24)
 )
 
-Pro = ColorPalette(
+MonokaiPro = ColorPalette(
     name="Monokai Pro",
     colors_list=[
         DARK2,
