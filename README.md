@@ -32,7 +32,7 @@ Color with rgb (166, 209, 137), hex #A6D189 and hsl (95, 43, 67)
 ```
 
 ## Example of use
-Below you can see all the supported themes. The images were created automatically using manim with the code inside palettes_examples/make_palettes_examples.py
+Below you can see all the supported themes. The images were created automatically using [ManimCE](https://www.manim.community/) with the code inside palettes_examples/make_palettes_examples.py
 
 
 # Supported Themes
