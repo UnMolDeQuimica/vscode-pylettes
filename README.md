@@ -49,6 +49,9 @@ Below you can see all the supported themes. The images were created automaticall
 ## Hypersubatomic themes
 [![Hypersubatomic](./palettes_examples/Hypersubatomic.png)](https://marketplace.visualstudio.com/items?itemName=neilpanchal.hypersubatomic)
 
+## Lotus Themes
+![LotusDark](./palettes_examples/LotusDark.png)
+
 ## Monkai Themes
 [![MonokaiClassic](./palettes_examples/Monokai_Classic.png)](https://github.com/loctvl842/monokai-pro.nvim/tree/master)
 [![MonokaiMachine](./palettes_examples/Monokai_Machine.png)](https://github.com/loctvl842/monokai-pro.nvim/tree/master)
@@ -64,3 +67,4 @@ Below you can see all the supported themes. The images were created automaticall
 [![TokyoNight](./palettes_examples/Tokyo_Night.png)](https://github.com/enkia/tokyo-night-vscode-theme)
 [![TokyoNightLight](./palettes_examples/Tokyo_Night_Light.png)](https://github.com/enkia/tokyo-night-vscode-theme)
 [![TokyoNightStorm](./palettes_examples/Tokyo_Night_Storm.png)](https://github.com/enkia/tokyo-night-vscode-theme)
+
